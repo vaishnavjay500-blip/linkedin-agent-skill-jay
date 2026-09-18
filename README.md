@@ -1,4 +1,4 @@
-# The LinkedIn agent skill
+# The LinkedIn agent
 
 Eleven Claude skills that run a LinkedIn account. Free, MIT, no signup, no API
 key, nothing to connect.
